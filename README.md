@@ -6,3 +6,5 @@ Quantumultx：脚本均收集自Github作者，脚本内标明出处。
 # [task_local]请自行添加
 .js 脚本内都有添加方法
 
+# 远程重写
+[rewrite_remote.conf](https://raw.githubusercontent.com/gitk01n/Script/main/rewrite_remote.conf)复制链接重写引用，更新ing。

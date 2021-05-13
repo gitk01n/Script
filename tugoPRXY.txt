@@ -1,0 +1,21 @@
+﻿
+vmess=v1-aws-sg-01.tudog.me:80, method=chacha20-poly1305, password=874f4c91-525e-3e39-b281-058b76ce8c56, obfs=ws, obfs-uri=/tudog, obfs-host=, tag=V1-新加坡AWS 01 AGA加速 1.0X
+vmess=v1-aws-sg-02.tudog.me:80, method=chacha20-poly1305, password=874f4c91-525e-3e39-b281-058b76ce8c56, obfs=ws, obfs-uri=/tudog, obfs-host=, tag=V1-新加坡AWS 02 AGA加速 1.0X
+vmess=v1-aws-sg-03.tudog.me:80, method=chacha20-poly1305, password=874f4c91-525e-3e39-b281-058b76ce8c56, obfs=ws, obfs-uri=/tudog, obfs-host=, tag=V1-新加坡AWS 03 AGA加速 1.0X
+vmess=v1-aws-sg-04.tudog.me:80, method=chacha20-poly1305, password=874f4c91-525e-3e39-b281-058b76ce8c56, obfs=ws, obfs-uri=/tudog, obfs-host=, tag=V1-新加坡AWS 04 AGA加速 1.0X
+vmess=v1-aws-sg-05.tudog.me:80, method=chacha20-poly1305, password=874f4c91-525e-3e39-b281-058b76ce8c56, obfs=ws, obfs-uri=/tudog, obfs-host=, tag=V1-新加坡AWS 05 AGA加速 1.0X
+vmess=v1-aws-sg-06.tudog.me:80, method=chacha20-poly1305, password=874f4c91-525e-3e39-b281-058b76ce8c56, obfs=ws, obfs-uri=/tudog, obfs-host=, tag=V1-新加坡AWS 06 AGA加速 1.0X
+vmess=v1-aws-sg-07.tudog.me:80, method=chacha20-poly1305, password=874f4c91-525e-3e39-b281-058b76ce8c56, obfs=ws, obfs-uri=/tudog, obfs-host=, tag=V1-新加坡AWS 07 AGA加速 1.0X
+vmess=v1-aws-sg-08.tudog.me:80, method=chacha20-poly1305, password=874f4c91-525e-3e39-b281-058b76ce8c56, obfs=ws, obfs-uri=/tudog, obfs-host=, tag=V1-新加坡AWS 08 AGA加速 1.0X
+vmess=v1-aws-sg-09.tudog.me:80, method=chacha20-poly1305, password=874f4c91-525e-3e39-b281-058b76ce8c56, obfs=ws, obfs-uri=/tudog, obfs-host=, tag=V1-新加坡AWS 09 AGA加速 1.0X
+vmess=v1-aws-sg-10.tudog.me:80, method=chacha20-poly1305, password=874f4c91-525e-3e39-b281-058b76ce8c56, obfs=ws, obfs-uri=/tudog, obfs-host=, tag=V1-新加坡AWS 10 AGA加速 1.0X
+vmess=v1-aws-jp-01.tudog.me:80, method=chacha20-poly1305, password=874f4c91-525e-3e39-b281-058b76ce8c56, obfs=ws, obfs-uri=/tudog, obfs-host=, tag=V1-日本AWS 01 AGA加速 1.0X
+vmess=v1-aws-jp-02.tudog.me:80, method=chacha20-poly1305, password=874f4c91-525e-3e39-b281-058b76ce8c56, obfs=ws, obfs-uri=/tudog, obfs-host=, tag=V1-日本AWS 02 AGA加速 1.0X
+vmess=v1-aws-jp-03.tudog.me:80, method=chacha20-poly1305, password=874f4c91-525e-3e39-b281-058b76ce8c56, obfs=ws, obfs-uri=/tudog, obfs-host=, tag=V1-日本AWS 03 AGA加速 1.0X
+vmess=v1-aws-jp-04.tudog.me:80, method=chacha20-poly1305, password=874f4c91-525e-3e39-b281-058b76ce8c56, obfs=ws, obfs-uri=/tudog, obfs-host=, tag=V1-日本AWS 04 AGA加速 1.0X
+vmess=v1-aws-jp-05.tudog.me:80, method=chacha20-poly1305, password=874f4c91-525e-3e39-b281-058b76ce8c56, obfs=ws, obfs-uri=/tudog, obfs-host=, tag=V1-日本AWS 05 AGA加速 1.0X
+vmess=v1-aws-jp-06.tudog.me:80, method=chacha20-poly1305, password=874f4c91-525e-3e39-b281-058b76ce8c56, obfs=ws, obfs-uri=/tudog, obfs-host=, tag=V1-日本AWS 06 AGA加速 1.0X
+vmess=v1-aws-jp-07.tudog.me:80, method=chacha20-poly1305, password=874f4c91-525e-3e39-b281-058b76ce8c56, obfs=ws, obfs-uri=/tudog, obfs-host=, tag=V1-日本AWS 07 AGA加速 1.0X
+vmess=v1-aws-jp-08.tudog.me:80, method=chacha20-poly1305, password=874f4c91-525e-3e39-b281-058b76ce8c56, obfs=ws, obfs-uri=/tudog, obfs-host=, tag=V1-日本AWS 08 AGA加速 1.0X
+vmess=v1-aws-jp-09.tudog.me:80, method=chacha20-poly1305, password=874f4c91-525e-3e39-b281-058b76ce8c56, obfs=ws, obfs-uri=/tudog, obfs-host=, tag=V1-日本AWS 09 AGA加速 1.0X
+vmess=v1-aws-jp-10.tudog.me:80, method=chacha20-poly1305, password=874f4c91-525e-3e39-b281-058b76ce8c56, obfs=ws, obfs-uri=/tudog, obfs-host=, tag=V1-日本AWS 10 AGA加速 1.0X

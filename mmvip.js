@@ -8,7 +8,4 @@ obj = {
         "is_vip":1
         }
       };
-$done({body:JSON.stringify(obj)});      
-      
-      
-#hostname= biz-vip-immomo.com
+$done({body:JSON.stringify(obj)});

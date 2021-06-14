@@ -2,7 +2,8 @@
 # 因为自用，所以有需要时会添加更新
 clash：上传基础配置conf.yaml
 
-Quantumultx：脚本均收集自Github作者，脚本内标明出处。
+Quantumultx：脚本均收集自Github作者，脚本内标明出处。//
+//
 [@NobyDa](https://github.com/NobyDa)
 [@yichahucha](https://github.com/yichahucha)
 # [task_local]请自行添加

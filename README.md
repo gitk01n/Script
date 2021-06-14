@@ -5,6 +5,7 @@ clash：上传基础配置conf.yaml
 Quantumultx：脚本均收集自Github作者：
 [@NobyDa](https://github.com/NobyDa)
 [@yichahucha](https://github.com/yichahucha)
+感谢
 
 # [task_local]请自行添加
 .js 脚本内都有添加方法

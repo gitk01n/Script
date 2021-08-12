@@ -1,5 +1,5 @@
 
-// 中青看点极速版复写配置，QX可在开启解析器情况下使用
+// 中青看点极速版ck获取，阅读数据获取复写配置，QX可在开启解析器情况下使用
 
 [MITM]
 hostname = *.youth.cn, ios.baertt.com, kandian.wkandian.com

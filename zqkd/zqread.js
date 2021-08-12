@@ -6,9 +6,6 @@
 中青看点数据抓取Loon插件地址（QX开启解析器时可使用）：此根据@Sunert大佬的获取中青ck代码改版成支持多账号
 https://raw.githubusercontent.com/gitk01n/Script/master/zqkd/rewrite-zq.plugin
 
-中青看点阅读数据抓取Loon插件地址（QX开启解析器时可使用）：
-https://raw.githubusercontent.com/gitk01n/Script/master/zqkd/rewrite-zqread.plugin
-
 */
 
 const $ = new Env(`中青阅读`);

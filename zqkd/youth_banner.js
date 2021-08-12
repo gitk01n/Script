@@ -4,10 +4,9 @@
 中青看点浏览赚/看看赚任务，手动抓取开始任务的数据即可
 
 iOS端通过Loon插件进行配置，qx使用解析器处理
-https://raw.githubusercontent.com/ztxtop/x/main/rewrite-zqkkz.plugin
+https://raw.githubusercontent.com/gitk01n/Script/master/zqkd/rewrite-zqkkz.plugin
 
-Android端需通过其它抓包工具间接获取，比如：1、安卓连ios手机的抓包工具抓取所需请求，再重放请求让Loon、QX等NE工具抓取任务数据；2、安卓通过surge for mac直接抓取任务数据
-https://raw.githubusercontent.com/ztxtop/x/main/rewrite-zqkkz.sgmodule
+
 
 */
 

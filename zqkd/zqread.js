@@ -31,7 +31,7 @@ let nextExecReadTimeKey = `next_exec_read_time`; // 下次最快可执行的时�
  * 3-备份数据：根据指定的备份格式，将要备份的数据以log的形式打印出来
  * 4-清空所有中青数据
  */
-const rmArr = ($.getval('readMode') || '4').split(',');
+const rmArr = ($.getval('readMode') || '0').split(',');
 const readMode = parseInt(rmArr[0]) || 0;
 
 !(async () => {

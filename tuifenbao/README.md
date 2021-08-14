@@ -6,6 +6,7 @@
 <img src="https://img.shields.io/github/license/gitk01n/Script?color=ff69b4">
 <img src="https://img.shields.io/github/languages/code-size/gitk01n/Script?color=blueviolet">
 </div>
+
 <br>
 # 食用方法
 在 QuantumultX 中添加rewrite_local和hostname 和 task_local 之后
@@ -29,3 +30,4 @@ hostname = api.hijmlvvg.cn
 ``````
 https://raw.githubusercontent.com/gitk01n/Script/master/tuifenbao/rewrite-remote-tfb.conf
 ``````
+<br>

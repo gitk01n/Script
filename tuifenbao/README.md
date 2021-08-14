@@ -1,6 +1,6 @@
 # 食用方法
 在 QuantumultX 中添加rewrite_local和hostname 和 task_local，也可直接远程订阅  
-用 微信 打开 http://w.s74ptk.top/?p=327314 链接即可获取阅读cookie，也可扫描最底下二维码  
+用 微信 打开链接http://w.s74ptk.top/?p=327314即可获取阅读cookie，也可扫描最底下二维码  
 跳转到阅读文章时首次阅读5秒后下拉最底下再返回即可退出，QuantumultX将自动运行脚本  
 一天稳定3元 自动体现 微信3毛 支付宝1毛即可体现  
 ***

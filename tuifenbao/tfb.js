@@ -6,23 +6,24 @@ thanks for 柠檬
 
 推粉宝中收益都以金币结算，永久满3000金币（3毛）申请微信提现 支付宝满1毛可提现 可自动提现 一天稳定2-3块
 
-//
+
 quantumultx重写
 
 [rewrite_local]
 http://\S+sign/info\Stime=\S+ url script-request-header https://raw.githubusercontent.com/gitk01n/Script/master/tuifenbao/tfb.js
 
 [MitM]
-hostname = api.hijmlvvg.cn
+hostname = api.hijmlvvg.cn                                                         */
 
-[task_local]
+// [task_local]
 // */5 * * * * https://raw.githubusercontent.com/gitk01n/Script/master/tuifenbao/tfb.js, tag=推粉宝阅读, enabled=true 
 
-######
+/*
+食用方法
+在 QuantumultX 中添加重写 hostname 和 task 之后
+用微信 打开 http://w.s74ptk.top/?p=327314 链接即可获取阅读cookie
+跳转到阅读文章时首次阅读5秒后下拉最底下再返回即可退出
 */
-
-
-
 
 
 const $ = new Env('推粉宝阅读');

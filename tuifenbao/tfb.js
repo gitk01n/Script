@@ -16,7 +16,7 @@ http://\S+sign/info\Stime=\S+ url script-request-header https://raw.githubuserco
 hostname = api.hijmlvvg.cn
 
 [task_local]
-*/5 * * * * http://nm66.top/tfb.js, tag=推粉宝阅读, enabled=true
+*/5 * * * * https://raw.githubusercontent.com/gitk01n/Script/master/tuifenbao/tfb.js, tag=推粉宝阅读, enabled=true
 
 ######
 */

@@ -15,7 +15,7 @@ hostname = api.hijmlvvg.cn
 [task_local]
 ``````
 */5 * * * * https://raw.githubusercontent.com/gitk01n/Script/master/tuifenbao/tfb.js, tag=推粉宝阅读, enabled=true 
-``````-
+``````
 远程订阅
 ``````
 https://raw.githubusercontent.com/gitk01n/Script/master/tuifenbao/rewrite-remote-tfb.conf

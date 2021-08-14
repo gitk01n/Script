@@ -26,4 +26,4 @@ https://raw.githubusercontent.com/gitk01n/Script/master/tuifenbao/rewrite-remote
 ``````
 ***
 #### 订阅重写后也可保存下方二维码扫描获取ck
-<div align=center><img width="200" height="200" src="https://github.com/gitk01n/Script/blob/master/tuifenbao/tfb.jpg"/></div>
+<div align=center><img width="200" height="260" src="https://github.com/gitk01n/Script/blob/master/tuifenbao/tfb.jpg"/></div>

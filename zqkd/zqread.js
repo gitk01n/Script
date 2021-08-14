@@ -105,15 +105,7 @@ function getRequestData() {
         let tips = `新增第${count}条阅读数据，下次阅读第${currNum}条数据`;
         $.msg($.acName, subt, tips);
         $.setval(count + '', countKey + $.idx);
-      } else if ($request.method != 'OPTIONS' && $request.url.match(/\/article\/(info\/get|info|detail)\.json\?p=/)) {
-        subt = '新增阅读数据new';
-        let count = ($.getval(countKey + $.idx) || 0) - 0 + 1;
-        $.setval($request.url.match(/\?(p=.+$)/)[1], mainKey + $.idx + '_' + count);
-        let currNum = ($.getval(numKey + $.idx) || 0) - 0 + 1;
-        let tips = `新增第${count}条阅读数据，下次阅读第${currNum}条数据`;
-        $.msg($.acName, subt, tips);
-        $.setval(count + '', countKey + $.idx);
-      } else if ($request.method != 'OPTIONS' && $request.url.match(/\/v5\/user\/app_stay\.json/)) {
+      } else if ($request.method != 'OPTIONS' && $request.url.match(/\/v5\/user\/stay\.json/)) {
         subt = '获取iOS阅读时长数据';
         // 顺序提交两个阅读时长，检查数据记录的时长是多少
         let start = await execReadTime($request.body);

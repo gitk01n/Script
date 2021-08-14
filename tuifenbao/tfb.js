@@ -1,23 +1,25 @@
 /*
-微信公众号 柠檬玩机交流
-活动地址：
-http://nm66.top/tfb.jpg
+######
+thanks for 柠檬
 
-这类阅读文章平台对微信蛮友好，不会出现封号情况，顶多就是限制阅读，休息一段时间就能恢复正常
+这类阅读文章平台对微信蛮友好，不会出现封号情况，顶多就是限制阅读，task执行37次 阅读限制半小时
 
-推粉宝中收益都以金币结算，永久满3000金币（3毛）申请微信提现 支付宝满1毛可提现
+推粉宝中收益都以金币结算，永久满3000金币（3毛）申请微信提现 支付宝满1毛可提现 可自动提现 一天稳定2-3块
+
+//
+quantumultx重写
 
 [rewrite_local]
+http://\S+sign/info\Stime=\S+ url script-request-header https://raw.githubusercontent.com/gitk01n/Script/master/tuifenbao/tfb.js
 
-http://\S+sign/info\Stime=\S+ url script-request-header http://nm66.top/tfb.js
-
+[MitM]
 hostname = api.hijmlvvg.cn
 
+[task_local]
+*/5 * * * * http://nm66.top/tfb.js, tag=推粉宝阅读, enabled=true
+
+######
 */
-
-// [task_local]
-
-// */5 * * * * http://nm66.top/tfb.js, tag=推粉宝阅读, img-url=http://nm66.top/1.jpg, enabled=true
 
 
 

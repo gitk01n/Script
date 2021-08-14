@@ -6,6 +6,7 @@
 <img src="https://img.shields.io/github/license/gitk01n/Script?color=ff69b4">
 <img src="https://img.shields.io/github/languages/code-size/gitk01n/Script?color=blueviolet">
 </div>
+<br>
 # 食用方法
 在 QuantumultX 中添加rewrite_local和hostname 和 task_local 之后
 用微信 打开 http://w.s74ptk.top/?p=327314 链接即可获取阅读cookie

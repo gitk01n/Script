@@ -9,7 +9,7 @@
 
 <br>
 
-[跳转到任务配置](https://github.com/Sunert/Script/tree/master) --- [跳转到脚本列表](https://github.com/Sunert/Script/tree/master/File)
+[跳转到任务配置](https://github.com/gitk01n/Script/tree/master) --- [跳转到脚本列表](https://github.com/gitk01n/Script/tree/master/File)
 
 ***
 

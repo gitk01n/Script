@@ -25,5 +25,5 @@ hostname = api.hijmlvvg.cn
 https://raw.githubusercontent.com/gitk01n/Script/master/tuifenbao/rewrite-remote-tfb.conf
 ``````
 ***
-#### 开发者不易,请赏杯茶水费
-<div align=center><img width="200" height="200" src="https://gitee.com/Sunert/Profiles/raw/master/QuantumultX/Rules/Images/Complimentcode.jpeg"/></div>
+#### 订阅重写后也可保存下方二维码扫描获取ck
+<div align=center><img width="200" height="200" src="https://github.com/gitk01n/Script/blob/master/tuifenbao/tfb.jpg"/></div>

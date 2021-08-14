@@ -1,3 +1,11 @@
+<div align="center"> 
+<h1 align="center">本仓库不再维护</h1>
+<img src="https://img.shields.io/github/issues/gitk01n/Script?color=green">
+<img src="https://img.shields.io/github/stars/gitk01n/Script?color=yellow">
+<img src="https://img.shields.io/github/forks/gitk01n/Script?color=orange">
+<img src="https://img.shields.io/github/license/gitk01n/Script?color=ff69b4">
+<img src="https://img.shields.io/github/languages/code-size/gitk01n/Script?color=blueviolet">
+</div>
 # 食用方法
 在 QuantumultX 中添加rewrite_local和hostname 和 task_local 之后
 用微信 打开 http://w.s74ptk.top/?p=327314 链接即可获取阅读cookie
